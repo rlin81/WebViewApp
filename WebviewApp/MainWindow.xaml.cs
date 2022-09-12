@@ -26,8 +26,8 @@ namespace WebviewApp
             CoreWebView2EnvironmentOptions options = new CoreWebView2EnvironmentOptions();
             CoreWebView2Environment env = CoreWebView2Environment.CreateAsync("", userDataFolder, options).GetAwaiter().GetResult();
             InitializeComponent();
-            webView.EnsureCoreWebView2Async(env);
-           // webView.CoreWebView2Ready += WebView_CoreWebView2Ready;
+            //webView.EnsureCoreWebView2Async(env);
+            //webView.CoreWebView2Ready += WebView_CoreWebView2Ready;
         }
         void ButtonGo_Click(object sender, RoutedEventArgs e)
         {
