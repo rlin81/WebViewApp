@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = Aperture Capture Tool
+ProductVersion = 1.2.7.0
+URL = file://C:\Users\rlin_outwardinc\Desktop\ApertureCaptureToolSetup_v1.2.7.0.exe
+Size = 585691672
+SHA256 = 26236AA3ACB4FA8E8202F8FFD0EFB5CBD540EC1C51AF4F9C70CA389F8ED79B7F
+MD5 = 1a92c74b60b99e30bfc87f7e70f87af0
+ServerFileName = ApertureCaptureToolSetup_v1.2.7.0.exe
+Flags = Sys64
+RegistryKey = HKUD\Software\Outward Inc\Aperture Capture Tool\Version
+Version = 1.2.7.0

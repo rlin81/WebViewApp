@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = Aperture Capture Tool
+ProductVersion = 1.2.6.0
+URL = file://C:\Users\rlin_outwardinc\Desktop\ApertureCaptureToolSetup_v1.2.6.exe
+Size = 681373144
+SHA256 = 9D4EF6BB0B953B08DDF78EF485EB86D8B9A91A2CAA8ABE770A01314091E0F9CD
+MD5 = c854571dd11fd16e2ecf0d193667f61a
+ServerFileName = ApertureCaptureToolSetup_v1.2.6.exe
+Flags = SilentInstall
+RegistryKey = HKUD\Software\Outward Inc\Aperture Capture Tool\Version
+Version = 1.2.6.0
+AutoCloseApplication = [APPDIR]OutwardCaptureToolWPF.exe

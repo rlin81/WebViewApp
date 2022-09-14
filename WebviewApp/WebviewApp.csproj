@@ -11,4 +11,10 @@
     <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.1293.44" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+    </None>
+  </ItemGroup>
+
 </Project>
